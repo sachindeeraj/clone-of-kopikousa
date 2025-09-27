@@ -1,0 +1,210 @@
+
+* {
+    background-color: black;
+
+}
+
+.site-title {
+    text-transform: uppercase;
+    letter-spacing: 6.5px;
+    line-height: 3.5;
+    font-style: normal;
+    font-stretch: normal;
+    font-weight: normal;
+    padding-left: 657px;
+    font-size: 50px;
+    height: 100px;
+    width: 500px;
+    color: #b7b7b7;
+    cursor: pointer;
+    margin: 0;
+}
+
+.site-description {
+    text-transform: uppercase;
+    padding-top: 0px;
+    color: #b7b7b7;
+    padding-left: 570px;
+    letter-spacing: 6.5px;
+    font-style: normal;
+    line-height: 1.5;
+    font-weight: normal;
+    font-stretch: normal;
+    letter-spacing: 5px;
+    font-size: 16px;
+    margin-bottom: 35px;
+}
+
+.home-menu {
+    margin-top: 20px;
+    color: white;
+    padding-left: 520px;
+    font-style: normal;
+    font-weight: normal;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.collections-menu {
+
+    padding-bottom: 10px;
+    color: white;
+    padding-left: 600px;
+    font-style: normal;
+    font-weight: normal;
+    text-transform: uppercase;
+    margin-top: -35px;
+    margin-left: 2px;
+   cursor: pointer;
+
+}
+
+.shop-menu {
+    padding-bottom: 10px;
+    color: white;
+    padding-left: 740px;
+    font-style: normal;
+    font-weight: normal;
+    text-transform: uppercase;
+    margin-top: -44px;
+    margin-left: 4px;
+    cursor: pointer;
+}
+.updates-menu
+{
+    padding-bottom: 10px;
+    color: white;
+    padding-left: 820px;
+    font-style: normal;
+    font-weight: normal;
+    text-transform: uppercase;
+    margin-top: -44px;
+    margin-left: 2px;
+    cursor: pointer;
+}
+.about-menu
+{
+     padding-bottom: 10px;
+    color: white;
+    padding-left: 990px;
+    font-style: normal;
+    font-weight: normal;
+    text-transform: uppercase;
+    margin-top: -44px;
+    margin-left: 2px;
+    cursor: pointer;
+}
+.contact-menu
+{
+    padding-bottom: 10px;
+    color: white;
+    padding-left: 1108px;
+    font-style: normal;
+    font-weight: normal;
+    text-transform: uppercase;
+    margin-top: -44px;
+    margin-left: 2px;
+    cursor: pointer;
+}
+.coffiee-image
+{
+    padding-top: 70px;
+    width: 100%;
+}
+.text-content
+{
+    margin-top: 150px;
+    color: #7a7a7a;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+    font-weight: bolder;
+}
+.text-content2
+{
+    color: #7a7a7a;
+    text-align: center;
+    font-size: 22px;
+    font-weight:bold;
+    margin-bottom: 200px;
+}
+.image-2
+{
+    margin-left: 300px;
+    margin-bottom: 300px;
+}
+.facebook-logo
+{
+color: white;
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-decoration: none;
+  margin-left: 600px;
+  cursor: pointer;
+}
+.instagram-logo
+{   
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-decoration: none;
+  margin-left: 40px;
+  cursor: pointer;  
+  border-radius: 50%;
+}
+.linkedin-logo
+{
+  color: white;
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-decoration: none;
+  margin-left: 40px;
+  cursor: pointer;
+
+}
+.youtube-logo
+{
+  color: white;
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-decoration: none;
+  margin-left: 40px;
+  cursor: pointer;
+}
+.socialmedia-icons
+{
+    margin-bottom: 250px;
+}
+.footer-text
+{
+    margin-left: 570px;
+   color: #999;
+}
+.footer-text-2
+{
+    margin-top: -33px;
+    color: white;
+    margin-left: 806px;
+}
+.footer-text-3
+{
+    margin-top: -35px;
+    color: #999;
+    margin-left: 905px;
+}
+.footer-text-4
+{
+    margin-top: -33px;
+    color: white;
+    margin-left: 1019px;
+}
+.border
+{
+   border: 1px solid #2f2f2f;
+   margin-left: 140px;
+   margin-right: 140px;
+
+}
