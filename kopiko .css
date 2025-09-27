@@ -11,10 +11,10 @@
     font-style: normal;
     font-stretch: normal;
     font-weight: normal;
-    padding-left: 657px;
+    padding-left: 571px;
     font-size: 50px;
-    height: 100px;
-    width: 500px;
+    height: 100px;f
+    width: 500 px;
     color: #b7b7b7;
     cursor: pointer;
     margin: 0;
@@ -24,7 +24,7 @@
     text-transform: uppercase;
     padding-top: 0px;
     color: #b7b7b7;
-    padding-left: 570px;
+    padding-left: 502px;
     letter-spacing: 6.5px;
     font-style: normal;
     line-height: 1.5;
@@ -206,5 +206,6 @@ color: white;
    border: 1px solid #2f2f2f;
    margin-left: 140px;
    margin-right: 140px;
+
 
 }
